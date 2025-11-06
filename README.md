@@ -1,4 +1,4 @@
-# Project 1 — Python Basics Exercises
+# Python Basics Exercises
 
 This repository contains a set of small Python exercises and utilities (ex_01 through ex_14) used to practice basic Python concepts: argument handling, dictionaries, lists, regular expressions, and simple I/O patterns.
 
